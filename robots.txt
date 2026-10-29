@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://samara-costa-nutricionista.vercel.app/sitemap.xml
